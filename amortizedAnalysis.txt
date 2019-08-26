@@ -1,0 +1,5 @@
+1. There are 106 cost units based on the given information and doubling each resize.
+The average Big-O complexity is O(1)+.
+
+2.There are 603 cost units based on the given information and adding two new spaces each resize.
+The average Big-O complexity is O(n)+. O(n^2) at the worst case and O(n) at the best case.
